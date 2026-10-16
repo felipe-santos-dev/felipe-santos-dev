@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="260" viewBox="0 0 1060 260" role="img" aria-label="Felipe Santos, Back-end, Java, Node.js e Automação Industrial">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#0d1117"/>
+      <stop offset="0.78" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0"/>
+      <stop offset="0.55" stop-color="#4f46e5" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0"/>
+      <stop offset="0.6" stop-color="#6366f1" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0.7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.92" cy="0.15" r="0.55">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="round"><rect width="1060" height="260" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1060" height="260" fill="url(#bg)"/>
+    <rect width="1060" height="260" fill="url(#glow)"/>
+    <path d="M0 262 L0 214 C 200 244 420 176 640 206 C 820 231 950 160 1060 118 L1060 262 Z" fill="url(#wave2)"/>
+    <path d="M0 262 L0 236 C 240 256 470 206 690 228 C 850 244 960 205 1060 176 L1060 262 Z" fill="url(#wave1)"/>
+    <text x="530" y="124" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="68" font-weight="700" fill="#e6edf3" letter-spacing="-1">Felipe Santos</text>
+    <text x="530" y="170" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="500" fill="#c4b5fd" letter-spacing="0.5">Back-end • Java • Node.js • Automação Industrial</text>
+  </g>
+</svg>
