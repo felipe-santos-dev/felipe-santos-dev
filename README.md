@@ -10,21 +10,20 @@
 
 ---
 
-<h3 align="center"><code>✦ um pouco sobre mim ✦</code></h3>
+<h3 align="center"><code>Sobre mim</code></h3>
 
-Sou estudante de **Engenharia de Software na FIAP**, com foco em **back-end (Node.js e Java/Spring Boot)**. Trabalho com **manutenção industrial**, então gosto de software que resolve problema de fábrica: dado de processo, alarme, sinótico e integração com CLP.
+Sou estudante de **Engenharia de Software na FIAP**, com foco em **back-end (Node.js, Java/Spring Boot e Python)**. 
 
 Atualmente, meu foco está em:
 
-- 🟣 Back-end com **Node.js** e **Java/Spring Boot**
+- 🟣 Back-end com **Node.js**, **Java/Spring Boot** e **Python**
 - 🔌 APIs REST e integração com **PostgreSQL**
 - 🏭 **Gêmeos digitais** e sinóticos web para processos industriais
-- ⚙️ Automação com **CLP Siemens**, **ESP32 (C++)** e dashboards
 - 🐳 Containers com **Docker**
 
 ---
 
-<h3 align="center"><code>♡ tecnologias</code></h3>
+<h3 align="center"><code>Tecnologias</code></h3>
 
 <div align="center">
 
@@ -44,24 +43,25 @@ Atualmente, meu foco está em:
 
 ---
 
-<h3 align="center"><code>⚙ ferramentas que fazem parte do meu dia</code></h3>
+<h3 align="center"><code>Ferramentas que utilizo diariamente</code></h3>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/NODE.JS-1e1b4b?style=flat-square&logo=nodedotjs&logoColor=a78bfa" alt="Node.js" />
+<img src="https://img.shields.io/badge/JAVA-1e1b4b?style=flat-square&logo=openjdk&logoColor=a78bfa" alt="Java" />
+<img src="https://img.shields.io/badge/PYTHON-1e1b4b?style=flat-square&logo=python&logoColor=a78bfa" alt="Python" />
+<img src="https://img.shields.io/badge/REACT-1e1b4b?style=flat-square&logo=react&logoColor=a78bfa" alt="React" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-1e1b4b?style=flat-square&logo=javascript&logoColor=a78bfa" alt="JavaScript" />
 <img src="https://img.shields.io/badge/GIT-1e1b4b?style=flat-square&logo=git&logoColor=a78bfa" alt="Git" />
 <img src="https://img.shields.io/badge/GITHUB-1e1b4b?style=flat-square&logo=github&logoColor=a78bfa" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS_CODE-1e1b4b?style=flat-square&logo=visualstudiocode&logoColor=a78bfa" alt="VS Code" />
-<img src="https://img.shields.io/badge/INTELLIJ-1e1b4b?style=flat-square&logo=intellijidea&logoColor=a78bfa" alt="IntelliJ IDEA" />
-<img src="https://img.shields.io/badge/TIA_PORTAL-1e1b4b?style=flat-square&logo=siemens&logoColor=a78bfa" alt="TIA Portal" />
-<img src="https://img.shields.io/badge/SIEMENS_S7--1500-1e1b4b?style=flat-square&logo=siemens&logoColor=a78bfa" alt="Siemens S7-1500" />
-<img src="https://img.shields.io/badge/ESP32-1e1b4b?style=flat-square&logo=espressif&logoColor=a78bfa" alt="ESP32" />
+
 
 </div>
 
 ---
 
-<h3 align="center"><code>✦ projetos</code></h3>
+<h3 align="center"><code>Projetos</code></h3>
 
 <p align="center"><sub>Alguns dos projetos que representam minha jornada de desenvolvimento.</sub></p>
 
@@ -69,7 +69,7 @@ Atualmente, meu foco está em:
 <tr>
 <td width="50%" align="center" valign="top">
 
-<h3>🏭 Papermill-Twin</h3>
+<h3>Papermill-Twin</h3>
 
 <img src="https://img.shields.io/badge/JavaScript-6d28d9?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Digital_Twin-1e1b4b?style=flat-square" alt="Digital Twin" />
@@ -81,7 +81,7 @@ Atualmente, meu foco está em:
 </td>
 <td width="50%" align="center" valign="top">
 
-<h3>🛗 ElevOS</h3>
+<h3>ElevOS</h3>
 
 <img src="https://img.shields.io/badge/JavaScript-6d28d9?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Challenge_FIAP-1e1b4b?style=flat-square" alt="Challenge FIAP" />
@@ -95,7 +95,7 @@ Atualmente, meu foco está em:
 <tr>
 <td colspan="2" align="center" valign="top">
 
-<h3>🌐 meu-portfolio</h3>
+<h3>Meu-portfolio</h3>
 
 <img src="https://img.shields.io/badge/TypeScript-2563eb?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Portf%C3%B3lio-1e1b4b?style=flat-square" alt="Portfólio" />
@@ -112,7 +112,7 @@ Atualmente, meu foco está em:
 
 ---
 
-<h3 align="center"><code>♡ contribution garden</code></h3>
+<h3 align="center"><code>Contribution garden</code></h3>
 
 <div align="center">
 <picture>
@@ -124,7 +124,7 @@ Atualmente, meu foco está em:
 
 ---
 
-<h3 align="center"><code>✉ vamos conversar?</code></h3>
+<h3 align="center"><code>Vamos conversar?</code></h3>
 
 <div align="center">
 
@@ -133,7 +133,7 @@ Atualmente, meu foco está em:
 
 <br/><br/>
 
-<sub>Back-end • APIs • Dados • Automação industrial</sub>
+<sub>Back-end • APIs • Dados • Automação </sub>
 
 <br/>
 
